@@ -9,9 +9,11 @@ class Program
         Console.WriteLine("Giorgi sichinava");
         Console.ResetColor();
         
+        Console.WriteLine("Enter something: ");
+        var info = Console.ReadLine();
+        Console.WriteLine($"This is user input: {info}");
         
-        
-        
-        
+
+
     }
 }
