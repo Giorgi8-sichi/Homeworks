@@ -23,6 +23,7 @@ class Program
         Console.WriteLine(number % 5 == 0 ? "Yes" : "No");
         #endregion
         */
+        
         /*
         #region ex2
 
@@ -71,6 +72,7 @@ class Program
 
         #endregion
         */
+
         /*
         #region ex3
         Console.WriteLine("Enter x: ");
@@ -84,7 +86,8 @@ class Program
         Console.WriteLine($"X = {x}, Y = {y}");
         #endregion
         */
-        /* 
+        
+        /*
         #region ex4
         Console.WriteLine("Enter your number: ");
         var x = int.Parse(Console.ReadLine());
@@ -94,6 +97,7 @@ class Program
         }
         #endregion
         */
+        
         /*
         #region ex5
         Console.WriteLine("Enter your number: ");
