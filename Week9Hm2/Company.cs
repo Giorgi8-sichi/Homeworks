@@ -3,7 +3,7 @@ namespace Week9Hm2;
 public class Company
 {
     private string whereIsCompany { get; set; }
-    private int amount { get; set; }
+    private int amount { get; }
 
     public Company(string whereIsCompany, int amount)
     {
