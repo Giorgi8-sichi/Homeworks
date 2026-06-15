@@ -41,6 +41,7 @@ class Program
         #endregion
         */
 
+        /*
         #region FinanceOperations
 
         var bank = new Bank();
@@ -51,6 +52,7 @@ class Program
         
 
         #endregion
+        */
 
 
     }
